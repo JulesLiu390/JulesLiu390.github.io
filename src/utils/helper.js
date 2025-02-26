@@ -54,7 +54,7 @@ export const ProjectsData = [
         id:`Jules Portfolio-${Date.now()}`,
         name: "Jules Portfolio",
         imgSrc: Portfolio,
-        gitUrl:"https://www.linkedin.com/in/xing-liu-17a228346/",
+        gitUrl:"https://github.com/JulesLiu390/ProtfolioJulesLiu",
     },
     {
         id:`Online virtual chat-${Date.now()}`,
