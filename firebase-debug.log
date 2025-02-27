@@ -1,0 +1,21 @@
+[debug] [2025-02-27T13:13:22.830Z] ----------------------------------------------------------------------
+[debug] [2025-02-27T13:13:22.832Z] Command:       /Users/jules/.nvm/versions/node/v22.14.0/bin/node /Users/jules/Documents/projects/my_protfolio/portfolio-app/node_modules/.bin/firebase init
+[debug] [2025-02-27T13:13:22.832Z] CLI Version:   13.31.2
+[debug] [2025-02-27T13:13:22.832Z] Platform:      darwin
+[debug] [2025-02-27T13:13:22.833Z] Node Version:  v22.14.0
+[debug] [2025-02-27T13:13:22.833Z] Time:          Thu Feb 27 2025 08:13:22 GMT-0500 (Eastern Standard Time)
+[debug] [2025-02-27T13:13:22.833Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-02-27T13:13:22.836Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-02-27T13:13:22.836Z] > authorizing via signed-in user (liunxryojeen@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/jules/Documents/projects/my_protfolio/portfolio-app
+
