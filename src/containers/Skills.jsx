@@ -44,11 +44,11 @@ export const Skills = () => {
 
             {/* image section */}
             <div className='w-full flex-col gap-4 flex items-center justify-center px-8'>
-                <SkillCard skill={"HTML 5"} percentage={"95%"} color={"#FF3F3F"} move={true}/>
-                <SkillCard skill={"HTML 5"} percentage={"95%"} color={"#FF3F3F"} />
-                <SkillCard skill={"HTML 5"} percentage={"95%"} color={"#FF3F3F"} move={true}/>
-                <SkillCard skill={"HTML 5"} percentage={"95%"} color={"#FF3F3F"} />
-                <SkillCard skill={"HTML 5"} percentage={"95%"} color={"#FF3F3F"} move={true}/>
+                <SkillCard skill={"HTML CSS JS"} percentage={"100%"} color={"#E34F26"} move={true}/>
+                <SkillCard skill={"REACT"} percentage={"100%"} color={"#61DAFB"} />
+                <SkillCard skill={"NODE.JS"} percentage={"100%"} color={"#393"} move={true}/>
+                <SkillCard skill={"Python"} percentage={"100%"} color={"#FFD43B"} />
+                <SkillCard skill={"MongoDB Firebase"} percentage={"100%"} color={"#FF3F3F"} move={true}/>
 
             </div>
         </div>

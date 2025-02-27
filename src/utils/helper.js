@@ -1,36 +1,40 @@
-import { FaGithub, FaHouse, FaLinkedin, FaLinkedinIn } from "react-icons/fa6";
+import { FaGithub, FaHouse, FaLinkedin, FaLinkedinIn, FaReact } from "react-icons/fa6";
 import { Galgame, Portfolio } from "../assets";
+import { FcAbout, FcContacts } from "react-icons/fc";
+import { BiFace } from "react-icons/bi";
+import { RiToolsFill } from "react-icons/ri";
+import { MdContactPage } from "react-icons/md";
 
 export const Menus = [
     {
         id:`home-${Date.now()}`,
         Icon: FaHouse,
-        url: "#/home",
+        url: "#home",
         name:"Home",
     },
     {
         id:`home-${Date.now()}`,
-        Icon: FaHouse,
-        url: "#/home",
-        name:"Home",
+        Icon: BiFace,
+        url: "#about",
+        name:"About",
     },
     {
         id:`home-${Date.now()}`,
-        Icon: FaHouse,
-        url: "#/home",
-        name:"Home",
+        Icon: RiToolsFill,
+        url: "#skills",
+        name:"Skills",
     },
     {
         id:`home-${Date.now()}`,
-        Icon: FaHouse,
-        url: "#/home",
-        name:"Home",
+        Icon: FaReact,
+        url: "#projects",
+        name:"Projects",
     },
     {
         id:`home-${Date.now()}`,
-        Icon: FaHouse,
-        url: "#/home",
-        name:"Home",
+        Icon: MdContactPage,
+        url: "#contact",
+        name:"Projects",
     },
 ]
 

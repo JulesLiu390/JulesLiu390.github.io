@@ -38,7 +38,6 @@ export const SkillCard = ({skill, percentage, color, move}) => {
                 <p className='text-gray-800 z-10 font-sans font-bold tracking-wider'>{percentage}</p>
             </motion.div>
         </div>
-        SkillCard
     </div>
   )
 }

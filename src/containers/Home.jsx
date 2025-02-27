@@ -18,7 +18,7 @@ export const Home = () => {
 
                 {/* type writter */}
                 <h2 className='text-2xl lg:text-4xl text-gray-300 mt-4'>And I'm{" "}
-                    <HeroTypeWritter words={["a Dveloper..", "a Student..", "a Server.."]} speed={100}/>
+                    <HeroTypeWritter words={["a Web Dveloper..", "a Data Analyst..", "a Master Student.."]} speed={100}/>
                 </h2>
 
                 <p className='text-base text-gray-300 mt-6 text-center lg:text-left'>
